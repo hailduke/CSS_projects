@@ -24,6 +24,9 @@ header{
 ul.top-mnu-list li.top-mnu-item a {
     color: black;
 }
+#catalog_pane {
+    width: 0px;
+}
 body[theme=big_ukr_theme] *, body[theme=big_ukr_theme] *:before, *:after {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
