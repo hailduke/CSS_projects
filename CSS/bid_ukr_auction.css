@@ -21,7 +21,7 @@ header{
     background-color: #E8F1F2;
     height: 66px;
 }
-.top-mnu-list li.top-mnu-item a {
+ul.top-mnu-item a {
     color: black;
 }
 html,body{
