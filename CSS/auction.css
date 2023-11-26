@@ -20,6 +20,9 @@ ul.top-mnu-list li.top-mnu-item a {
     position: unset;
      right: -10000px;
  }
+ header .topline-btns {
+    background: white;
+ }
 footer{
     display:flex;
 }
