@@ -13,7 +13,9 @@
 a:focus,a:active{outline: none;}
 
 nav,header,aside{display: block;}
-
+ul.top-mnu-list li.top-mnu-item a {
+    color: black;
+}
 footer{
     display:flex;
 }
