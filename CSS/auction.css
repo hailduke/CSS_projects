@@ -18,7 +18,10 @@ ul.top-mnu-list li.top-mnu-item a {
 }
 #catalog_pane {
     position: unset;
-     right: -10000px;
+    right: -10000px;
+ }
+ .sidebar-section {
+    width: 0px;
  }
  li.top-mnu-item a {
     background-color: transparent;
