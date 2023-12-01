@@ -455,6 +455,10 @@ box-shadow:none;
     margin-top: 229px;
     margin-right: 8px;
 }
+.tile1:nth-child(2) {
+    margin-top: 22px;
+
+}
 .tile2{
     margin-top: 47px;
     margin-right: 8px;
