@@ -453,6 +453,9 @@ box-shadow:none;
     background: #FFF;
     box-shadow: 6px 6px 18px 0px rgba(0, 0, 0, 0.10);
 }
+.tile1:nth-child(1) {
+    margin-bottom: 10px;
+}
 .tile2{
     margin-top: 47px;
     margin-right: 8px;
