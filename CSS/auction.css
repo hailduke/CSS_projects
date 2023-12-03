@@ -54,9 +54,12 @@ a, a:visited{text-decoration: none;}
 a:hover{text-decoration: none;}
 ul li{list-style: none;}
 
-img:nth-child(1) {
+img {
     vertical-align: top;
     margin-right: 6px; 
+}
+
+img:nth-child(1) {
     width: 155px;
     height: 155px;
     flex-shrink: 0;
