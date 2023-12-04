@@ -59,7 +59,7 @@ img {
     margin-right: 6px; 
 }
 
-.auction_tiles > .img {
+.auction_tiles > img {
     width: 155px;
     height: 155px;
     flex-shrink: 0;
