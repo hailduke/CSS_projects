@@ -59,7 +59,7 @@ img {
     margin-right: 6px; 
 }
 
-.auction_tiles > img {
+.tile1 > img {
     width: 155px;
     height: 155px;
     flex-shrink: 0;
@@ -78,7 +78,7 @@ img {
 }
     
 
-img:nth-child(2)  {
+.tile2 > img {
     width: 214px;
     height: 225px;
     flex-shrink: 0;
