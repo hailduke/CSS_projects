@@ -79,6 +79,9 @@ img {
     line-height: 140%; /* 19.6px */
 }
     
+.tile_description {
+    margin-left: 10px;
+}
 
 .tile2 > img {
     width: 214px;
