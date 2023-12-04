@@ -54,6 +54,10 @@ a, a:visited{text-decoration: none;}
 a:hover{text-decoration: none;}
 ul li{list-style: none;}
 
+.content-section {
+    width: 99%;
+}
+
 img {
     vertical-align: top;
     margin-right: 6px; 
