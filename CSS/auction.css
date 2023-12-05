@@ -137,13 +137,13 @@ img {
     margin-top: 37px;
 }
 
-.blocks1 > .tile:nth-child(1) {
-    margin-left: 160px;
+.blocks1 > .tile:nth-child(4) {
+    margin-left: 30px;
     margin-top: 37px;
 }
 
-.blocks1 > .tile:nth-child(4) {
-    margin-left: 30px;
+.blocks2 > .tile:nth-child(1) {
+    margin-left: 160px;
     margin-top: 37px;
 }
 
