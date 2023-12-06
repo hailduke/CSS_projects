@@ -162,6 +162,11 @@ img {
     margin-top: 34px;
 }
 
+.tile > .tile_title {
+    margin-top: 266.15;
+    margin-left: 18.46;
+}
+
 h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 /*--------------------*/
 
