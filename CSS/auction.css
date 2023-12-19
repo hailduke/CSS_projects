@@ -2,11 +2,7 @@
 *{
 	
 }
-*,*:before,*:after{
-	-moz-box-sizing: border-box;
-	-webkit-box-sizing: border-box;
-	box-sizing: border-box;
-}
+
 :focus,:active{outline: none;}
 a:focus,a:active{outline: none;}
 
@@ -31,12 +27,12 @@ form#fSearch input[type=search] {
 #catalog_pane {
     position: unset;
     right: -10000px;
- }
+}
  
 
 
 
- li.top-mnu-item a {
+li.top-mnu-item a {
     background-color: transparent;
 }
 footer{
