@@ -439,6 +439,22 @@ box-shadow:none;
     text-transform: uppercase;
 }
 
+.main-block_button.button {
+    margin-left: 626px;
+    margin-top: 53px;
+}
+
+.white_description {
+    width: 1170px;
+    color: #FFF;
+    font-family: Benzin-Bold;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 110%; /* 39.6px */
+    text-transform: uppercase;
+}
+
 .main-block_buttons {
     display: flex;
 }
