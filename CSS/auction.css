@@ -439,7 +439,7 @@ box-shadow:none;
     text-transform: uppercase;
 }
 
-.main-block_button.button {
+.servises_page > .main-block_button.button {
     margin-left: 626px;
     margin-top: 53px;
 }
