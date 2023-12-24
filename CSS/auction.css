@@ -673,6 +673,7 @@ box-shadow:none;
 }
 
 .black_block{
+    margin-left: 36px;
     width: 1418px;
     height: 555px;
     flex-shrink: 0;
@@ -682,6 +683,8 @@ box-shadow:none;
 }
 
 .three_pictures{
+    margin-top: 189px;
+    margin-right: 132px;
     display:flex;
     width: 354px;
     height: 120px;
