@@ -520,6 +520,9 @@ box-shadow:none;
 }
 .item-servise {
 }
+
+
+
 .servise_img {
     position: relative;
 }
@@ -680,6 +683,17 @@ box-shadow:none;
 
 .three_pictures{
     display:flex;
+    width: 354px;
+    height: 100px;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Benzin-Bold;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%; /* 29.4px */
+    text-transform: uppercase;
 }
 
 .social_media{
