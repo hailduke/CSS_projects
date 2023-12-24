@@ -530,8 +530,17 @@ box-shadow:none;
 }
 .servised_title {
 }
-.servise_text {
+
+.servise_text_text {
+    width: 200px;
+    color: #000;    
+    font-family: e-Ukraine;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 140%; /* 22.4px */
 }
+
 .servise__head {
     display: flex;
 }
