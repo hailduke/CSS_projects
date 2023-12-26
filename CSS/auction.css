@@ -683,9 +683,9 @@ box-shadow:none;
     display: block;
 }
 
-.three_pictures{
+.three_pictures {
     margin-top: 189px;
-    margin-left: 132px;
+    margin-right: 132px;
     display:flex;
     width: 354px;
     height: 120px;
