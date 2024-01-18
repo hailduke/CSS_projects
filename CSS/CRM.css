@@ -2,5 +2,5 @@
 
 ul.top-mnu-list li.top-mnu-item:nth-child(2) {
     margin-top: 2px;
-    background-color: white;
+    background-color: transparent;
 }
