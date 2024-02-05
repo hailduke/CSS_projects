@@ -37,8 +37,7 @@
         {
         "title": "Send",
         "type": "custom",
-        "disabled": "onkey",
-        "OnClick": "return *function*(this, *number of block*);"
+        "disabled": "onkey"
 
         }
                ]
