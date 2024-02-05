@@ -1,0 +1,50 @@
+
+{
+  "title": "Відправлення ММС",
+  "action": "/twillio/mms",
+  "description": "Заповніть поля",
+  "method": "POST",
+
+  "blocks":[
+    {
+    "id": 1,
+    "title": "mms",
+    "columns": [
+      {
+        "name": "To",
+        "required": true,
+        "type": "text",
+        "title": "To"
+      },
+      {
+        "name": "From",
+        "required": true,
+        "type": "text",
+        "title": "From"
+      },
+      {
+        "name": "img",
+        "required": true,
+        "type": "file",
+        "title": "img for mms"
+      }
+    
+    ]
+    }
+    ],
+
+    "buttons": [
+        {
+        "title": "Send",
+        "type": "custom",
+        "disabled": "onkey",
+        "OnClick": "return *function*(this, *number of block*);"
+
+        }
+               ]
+}
+    
+    
+  
+    
+  
