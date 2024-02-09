@@ -28,9 +28,9 @@
         "title": "img for mms"
       },
       {
-         "name": "text",
+         "name": "body",
          "required": true,
-         "type": "file",
+         "type": "custom",
          "title": "text for mms"
       }
     
