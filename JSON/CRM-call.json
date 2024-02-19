@@ -39,7 +39,9 @@
           "title": "Hang up",
           "type": "custom",
           "disabled": "onkey",
+          "hidden": true,
           "OnClick": "return hang_up_call(this.form)"
+          
           
         }
                ]
