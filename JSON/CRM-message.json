@@ -25,6 +25,7 @@
         "name": "img",
         "required": true,
         "type": "file",
+        "accept": ,
         "title": "img for mms"
       },
       {
