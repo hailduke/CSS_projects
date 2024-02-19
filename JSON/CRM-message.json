@@ -44,7 +44,8 @@
         {
         "title": "Send",
         "type": "custom",
-        "disabled": "onkey"
+        "disabled": "onkey",
+        "class": "btn btn-success mx-3"
 
         }
                ]
