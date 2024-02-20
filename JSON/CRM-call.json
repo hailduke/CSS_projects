@@ -10,13 +10,13 @@
     "title": "call",
     "columns": [
       {
-        "name": "calling_to_num",
+        "name": "calling_to",
         "required": true,
         "type": "tel",
         "title": "Calling to"
       },
       {
-        "name": "calling_from_num",
+        "name": "calling_from",
         "required": true,
         "type": "tel",
         "title": "Enter calling from number"
