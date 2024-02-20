@@ -1,52 +1,53 @@
 {
-  "title": "Call",
-  "action": "",
-  "description": "Додати номер",
-  "method": "POST",
-
-  "blocks":[
-    {
-    "id": 1,
-    "title": "call",
-    "columns": [
+    "title": "Call",
+    "action": "",
+    "description": "Додати номер",
+    "method": "POST",
+  
+    "blocks":[
       {
-        "name": "calling_to_num",
-        "required": true,
-        "type": "tel",
-        "title": "Calling to"
-      },
-      {
-        "name": "calling_from_num",
-        "required": true,
-        "type": "tel",
-        "title": "Enter calling from number"
-      }
-    
-                ]
-    },
-    {
-    "id": 2,
-    "title": "",
-    "buttons": [
+      "id": 1,
+      "title": "call",
+      "columns": [
         {
-        "title": "Call",
-        "type": "custom",
-        "disabled": "onkey",
-        "OnClick": "return device_call(this.form)",
-        "class": "btn btn-success mx-3"
-
+          "name": "calling_to",
+          "required": true,
+          "type": "tel",
+          "title": "Calling to"
         },
         {
-          "title": "Hang up",
+          "name": "calling_from",
+          "required": true,
+          "type": "tel",
+          "title": "Enter calling from number"
+        }
+      
+                  ]
+      },
+      {
+      "id": 2,
+      "title": "",
+      "buttons": [
+          {
+          "title": "Call",
           "type": "custom",
           "disabled": "onkey",
-          "hidden": true,
-          "OnClick": "return hang_up_call(this.form)",
-          "class": "btn btn-danger mx-5"
-          
-          
-        }
-               ]
-    }
-    ]
-}
+          "OnClick": "return device_call(this.form)",
+          "class": "btn btn-success mx-3"
+  
+          },
+          {
+            "title": "Hang up",
+            "type": "custom",
+            "disabled": "onkey",
+            "hidden": true,
+            "OnClick": "return hang_up_call(this.form)",
+            "class": "btn btn-danger mx-5"
+            
+            
+          }
+                 ]
+      }
+      ]
+      
+  }
