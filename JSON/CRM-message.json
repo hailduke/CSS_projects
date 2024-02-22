@@ -25,6 +25,7 @@
         "name": "img",
         "required": true,
         "type": "file",
+        "accept": "image",
         "title": "img for mms"
       },
       {
@@ -43,7 +44,8 @@
         {
         "title": "Send",
         "type": "custom",
-        "disabled": "onkey"
+        "disabled": "onkey",
+        "class": "btn btn-success mx-3"
 
         }
                ]
