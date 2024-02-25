@@ -41,7 +41,7 @@
           "type": "custom",
           "disabled": "onkey",
           "hidden": true,
-          "OnClick": "return hang_up_call(this.form)",
+          "OnClick": "return hang_up_call()",
           "class": "btn btn-danger mx-5"
           
           
