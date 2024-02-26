@@ -43,7 +43,6 @@
           "OnClick": "return hang_up_call()",
           "class": "btn btn-danger mx-5"
           
-          
         }
                ]
     }
