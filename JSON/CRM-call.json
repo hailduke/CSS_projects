@@ -31,7 +31,6 @@
         {
         "title": "Call",
         "type": "custom",
-        "disabled": "onkey",
         "OnClick": "return device_call(this.form)",
         "class": "btn btn-success mx-3"
 
