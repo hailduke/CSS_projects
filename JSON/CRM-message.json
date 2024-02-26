@@ -12,13 +12,13 @@
       {
         "name": "To",
         "required": true,
-        "type": "text",
+        "type": "tel",
         "title": "To"
       },
       {
         "name": "From",
         "required": true,
-        "type": "text",
+        "type": "tel",
         "title": "From"
       },
       {
