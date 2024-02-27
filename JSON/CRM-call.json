@@ -29,6 +29,7 @@
     "title": "",
     "buttons": [
         {
+        "id": 2.1,
         "title": "Call",
         "type": "custom",
         "OnClick": "return device_call(this.form)",
@@ -36,6 +37,7 @@
 
         },
         {
+          "id": 2.2,
           "title": "Hang up",
           "type": "custom",
           "disabled": "onkey",
