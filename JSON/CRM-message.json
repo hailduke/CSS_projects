@@ -26,13 +26,13 @@
         "required": true,
         "type": "file",
         "accept": "image/*",
-        "title": "img for mms"
+        "title": "Img for mms"
       },
       {
          "name": "body",
          "required": false,
          "type": "custom",
-         "title": "text for mms"
+         "title": "Text for mms"
       }
     
                  ]
