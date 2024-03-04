@@ -37,7 +37,7 @@
 
         },
         {
-          "id": "btnHand_up",
+          "id": "btnHang_up",
           "title": "Hang up",
           "type": "custom",
           "disabled": "onkey",
