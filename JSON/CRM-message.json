@@ -30,7 +30,6 @@
       },
       {
          "name": "body",
-         "required": false,
          "type": "custom",
          "title": "Text for mms"
       }
