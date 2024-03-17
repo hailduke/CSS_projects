@@ -1,22 +1,30 @@
+<!DOCTYPE html>
 <html>
 <head>
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"></script>
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key= &callback=initMap"></script>
   <script>
     function initMap() 
-if (navigator.geolocation) {
-  navigator.geolocation.getCurrentPosition(
-    function(position) {
-      console.log("Latitude: " + position.coords.latitude);
-      console.log("Longitude: " + position.coords.longitude);
-    },
-    function(error) {
-      console.log("Ошибка определения местоположения: " + error.message);
-    }
-  );
-} else {
-  console.log("Geolocation не поддерживается вашим браузером.");
-}
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(function(position) {
+          var userLocation = {
+            lat: position.coords.latitude,
+            lng: position.coords.longitude,
+          };
 
+          var map = new google.maps.Map(document.getElementById('map'), {
+            center: userLocation,
+            zoom: 15
+          });
+
+          var marker = new google.maps.Marker({
+            position: userLocation,
+            map: map
+          });
+        });
+      } else {
+        console.log("Geolocation не підтримується вашим браузером.");
+      }
+    
   </script>
 </head>
 <body>
