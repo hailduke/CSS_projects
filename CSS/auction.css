@@ -219,6 +219,7 @@ box-shadow:none;
 
 }
 .main-block_button {
+    margin-top: 50px;
     width: 239px;
     height: 62px;
     flex-shrink: 0;
