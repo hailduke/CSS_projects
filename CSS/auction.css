@@ -727,6 +727,10 @@ box-shadow:none;
     text-transform: uppercase;
 }
 
+.black_block > .three_pictures > div {
+    
+}
+
 .social_media{
     display: flex;
 }

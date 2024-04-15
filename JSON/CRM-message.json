@@ -1,0 +1,58 @@
+{
+    "title": "Send MMS",
+    "action": "/twillio/mms",
+    "description": "Fill in the lines",
+    "method": "POST",
+  
+    "blocks":[
+      {
+      "id": 1,
+      "title": "mms",
+      "columns": [
+        {
+          "name": "To",
+          "required": true,
+          "type": "tel",
+          "title": "To"
+        },
+        {
+          "name": "From",
+          "required": true,
+          "type": "tel",
+          "title": "From"
+        },
+        {
+          "name": "img",
+          "required": true,
+          "type": "file",
+          "accept": "image/*",
+          "title": "Img for mms"
+        },
+        {
+           "name": "body",
+           "type": "text",
+           "title": "Text for mms"
+        }
+      
+                   ]
+      },
+      {
+      "id": 2,
+      "title": "Send",
+      "buttons": [
+          {
+          "title": "Send",
+          "type": "custom",
+          "disabled": "onkey",
+          "class": "btn btn-success mx-3"
+  
+          }
+                 ]
+      }
+              ]
+  }
+     
+      
+    
+      
+    
