@@ -469,13 +469,12 @@ box-shadow:none;
 }
 
 .white_description {
-    margin-top: 104px;
     margin-left: 124px;
     margin-top: 104px;
     width: 1170px;
     color: #FFF;
     font-family: Benzin-Bold;
-    font-size: 36px;
+    font-size: 46px;
     font-style: normal;
     font-weight: 400;
     line-height: 110%; /* 39.6px */
