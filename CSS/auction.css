@@ -105,6 +105,18 @@ img {
     line-height: 15.6px;
 }
 
+.tile_details {
+    margin-top: 30px;
+    margin-left: 200px;
+    color: #7DE2BC;
+    font-family: e-Ukraine;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 15.6px;
+    align: right;
+
+}
+
 .tile2_image {
     margin-left: 10px;
     margin-top: 10px;
