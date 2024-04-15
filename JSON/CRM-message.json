@@ -30,7 +30,7 @@
       },
       {
          "name": "body",
-         "type": "custom",
+         "type": "text",
          "title": "Text for mms"
       }
     
