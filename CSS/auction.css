@@ -673,7 +673,7 @@ box-shadow:none;
     box-shadow: 6px 6px 18px 0px rgba(0, 0, 0, 0.10);
 }
 
-.black_block{
+.black_block {
     margin-left: 36px;
     width: 1418px;
     height: 555px;
@@ -698,6 +698,10 @@ box-shadow:none;
     font-weight: 400;
     line-height: 140%; /* 29.4px */
     text-transform: uppercase;
+}
+
+.black_block > .three_pictures > div {
+    margin-top: 100px;
 }
 
 .social_media{
