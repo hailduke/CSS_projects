@@ -90,7 +90,7 @@ img {
     width: 162px;
     color: #000;
     font-family: e-Ukraine;
-    font-size: 14px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 140%; /* 19.6px */
@@ -101,7 +101,7 @@ img {
     margin-left: 10px;
     color: #000;
     font-family: e-Ukraine;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 300;
     line-height: 15.6px;
 }
@@ -132,7 +132,7 @@ img {
     margin-left: 10px;
     color: #000;
     font-family: e-Ukraine;
-    font-size: 16px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 500;
     line-height: 140%; /* 22.4px */
@@ -488,7 +488,7 @@ box-shadow:none;
 .main-block_text {
     color: #000;
     font-family: e-Ukraine;
-    font-size: 16px;
+    font-size: 22px;
     font-style: normal;
     font-weight: 300;
     line-height: 140%; /* 22.4px */
