@@ -468,13 +468,13 @@ box-shadow:none;
 }
 
 .white_description {
-    margin-top: 104px;
+    padding-top: 104px;
     margin-left: 124px;
     margin-top: 104px;
     width: 1170px;
     color: #FFF;
     font-family: Benzin-Bold;
-    font-size: 36px;
+    font-size: 47px;
     font-style: normal;
     font-weight: 400;
     line-height: 110%; /* 39.6px */
@@ -708,7 +708,7 @@ box-shadow:none;
 }
 
 .three_pictures {
-    margin-top: 189px;
+    margin-top: 160px;
     margin-right: 132px;
     display:flex;
     width: 354px;
@@ -725,7 +725,11 @@ box-shadow:none;
 }
 
 .black_block > .three_pictures > div {
-    margin-left: 100px;
+    margin-left: 245px;
+    font-family: Benzin-Bold;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 29.4px;
 }
 
 .social_media{
