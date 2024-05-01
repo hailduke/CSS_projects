@@ -449,6 +449,8 @@ box-shadow:none;
 .main-block_title1 {
     width: 725px;
     margin: 130px 0 0 360px;
+    font-size: 67px;
+    font-weight: bold;
 }
 
 .main-block_title.title {
@@ -457,7 +459,7 @@ box-shadow:none;
     font-family: Benzin-Bold;
     font-size: 58px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: bold;
     line-height: 118.5%; /* 68.73px */
     text-transform: uppercase;
 }
@@ -474,9 +476,9 @@ box-shadow:none;
     width: 1170px;
     color: #FFF;
     font-family: Benzin-Bold;
-    font-size: 47px;
+    font-size: 46px;
     font-style: normal;
-    font-weight: 400;
+    font-weight: bold;
     line-height: 110%; /* 39.6px */
     text-transform: uppercase;
 }
