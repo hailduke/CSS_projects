@@ -22,43 +22,7 @@ form {
     background-color: #fefefe;
 }
 
-header {
-    position: sticky;
-    top: 0;
-    width: 100%;
-    border-bottom: 1px solid #f6f7f8;
-    box-shadow: 0 0 6px -3px #f6f7f8;
-    box-sizing: border-box;
-    z-index: 9;
-    align-items: center;
-    background: #0a1c3b;
-}
-header .topline {
-    -webkit-flex-direction: row;
-    -webkit-align-items: center;
-    -webkit-justify-content: space-between;
-    align-items: center;
-    flex-direction: row;
-    justify-content: space-between;
-    height: 100%;
-    width: 100%;
-    display: table;
-}
-header .topline-btns {
-    display: inline-block;
-    width: auto;
-    right: 0;
-    padding: 4px 8px;
-    border: 0;
-    position: absolute;
-    min-width: auto;
-    color: white;
-}
-header nav {
-    display: inline-flex;
-    align-items: start;
-    height: 100%;
-}
+
 .top-mnu-list {
     margin-top: 5px;
 }
