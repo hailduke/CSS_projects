@@ -365,7 +365,8 @@ form  span.hiddenInput:hover{
 form#fSearch input[type=search]{
 	align-items: center;
 	vertical-align: middle;
-	width: 70%;
+	width: 15%;
+  margin-left: 900px;
 }
 form#fSearch {
 	width: 100%;
