@@ -1,0 +1,53 @@
+
+.frame-group-1 {
+    height: 730px;
+}
+
+.frame-group-2 {
+    background-color: #F5F5DC;
+}
+
+.framebox-1 {
+
+    width: 49%;
+    margin-left: 0;
+    margin-top: 0;    
+    flex-shrink: 0;
+    display: block;
+    color: black;
+
+    
+    }
+
+.framebox-2 {
+
+    width: 49%;
+    margin-left: 0;
+    margin-top: 0;    
+    flex-shrink: 0;
+    display: block;
+   
+
+    }
+
+.frame-group-3 {
+    height: 838px;
+    background-color: #003B2E;
+    }
+
+.framebox-3 {
+    width: 49%;
+    margin-left: 0;
+    margin-top: 0;    
+    flex-shrink: 0;
+    display: block;
+}
+
+.framebox-3 {
+    width: 49%;
+    margin-left: 0;
+    margin-top: 0;    
+    flex-shrink: 0;
+    display: block;
+    color: #F5F5DC;
+}
