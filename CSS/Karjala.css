@@ -15,8 +15,8 @@
 
     width: 49%;
     max-width: 960px;
-    margin-left: 40px;
-    margin-top: 0;    
+    margin-left: 50px;
+    margin-top: 50px;    
     flex-shrink: 0;
     font-size: 25px; 
     display: block;
@@ -29,8 +29,8 @@
 
     width: 49%;
     max-width: 960px;
-    margin-left: 0;
-    margin-top: 0;    
+    margin-left: 116px;
+    margin-top: 50px;    
     flex-shrink: 0;
     display: block;
    
@@ -48,7 +48,7 @@
     width: 49%;
     max-width: 960px;
     margin-left: 0;
-    margin-top: 20px;    
+    margin-top: 40px;    
     flex-shrink: 0;
     display: block;
 }
