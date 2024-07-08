@@ -1,15 +1,19 @@
 
 .frame-group-1 {
     height: 730px;
+    max-width: 1920px;
 }
 
 .frame-group-2 {
+    height: 500px;
+    max-width: 1920px;
     background-color: #F5F5DC;
 }
 
 .framebox-1 {
 
     width: 49%;
+    max-width: 960px;
     margin-left: 0;
     margin-top: 0;    
     flex-shrink: 0;
@@ -22,6 +26,7 @@
 .framebox-2 {
 
     width: 49%;
+    max-width: 960px;
     margin-left: 0;
     margin-top: 0;    
     flex-shrink: 0;
@@ -32,19 +37,22 @@
 
 .frame-group-3 {
     height: 838px;
+    max-width: 1920px;
     background-color: #003B2E;
     }
 
 .framebox-3 {
     width: 49%;
+    max-width: 960px;
     margin-left: 0;
     margin-top: 0;    
     flex-shrink: 0;
     display: block;
 }
 
-.framebox-3 {
+.framebox-4 {
     width: 49%;
+    max-width: 960px;
     margin-left: 0;
     margin-top: 0;    
     flex-shrink: 0;
