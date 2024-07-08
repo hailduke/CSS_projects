@@ -15,9 +15,10 @@
 
     width: 49%;
     max-width: 960px;
-    margin-left: 0;
+    margin-left: 40px;
     margin-top: 0;    
     flex-shrink: 0;
+    font-size: 25px; 
     display: block;
     color: black;
 
@@ -47,7 +48,7 @@
     width: 49%;
     max-width: 960px;
     margin-left: 0;
-    margin-top: 0;    
+    margin-top: 20px;    
     flex-shrink: 0;
     display: block;
 }
@@ -55,8 +56,9 @@
 .framebox-4 {
     width: 49%;
     max-width: 960px;
-    margin-left: 0;
-    margin-top: 0;    
+    margin-left: 20px;
+    margin-top: 0;  
+    font-size: 25px;  
     flex-shrink: 0;
     display: block;
     color: #F5F5DC;
