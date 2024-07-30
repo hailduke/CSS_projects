@@ -73,6 +73,10 @@
     max-width: 1920px;
 }
 
+.framebox-4-1 {
+    margin-top: -300px;
+}
+
 .frame-group-5 {
     display: flex;
     height: 763px;
