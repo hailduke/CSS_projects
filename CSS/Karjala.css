@@ -149,11 +149,12 @@
 
 .framebox-9 {
 
+    display: flex;
     width: 100%;
     max-width: 318px;
     margin-left: 900px;
     margin-top: 0px;    
     flex-shrink: 0;
-    display: block;
+    
 
 }
