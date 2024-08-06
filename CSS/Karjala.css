@@ -171,12 +171,13 @@
 }
 
 .frame-group-8 {
+    height: 1034px;
     max-width: 1920px;
     display: flex;
 }
 
 .frame-group-9 {
-    max-height: 3694px;
+    height: 3694px;
     max-width: 1920px;
     background-color: #003B2E;
     display: flex;
