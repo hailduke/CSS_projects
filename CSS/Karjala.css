@@ -169,3 +169,80 @@
     
 
 }
+
+.frame-group-8 {
+    max-width: 1920px;
+    display: flex;
+}
+
+.frame-group-9 {
+    max-height: 3694px;
+    max-width: 1920px;
+    background-color: #003B2E;
+    display: flex;
+}
+
+.framebox-11 {
+    max-height: 567px;
+    max-width: 452px;
+    margin-left: 0px;
+    margin-top: 0px;  
+    display: block;
+
+}
+
+.framebox-12 {
+    max-height: 774px;
+    max-width: 1068px;
+    margin-left: 0px;
+    margin-top: 0px;  
+    display: block;
+    background-color: #F5F5DC;
+
+}
+
+.framebox-13 {
+    max-height: 1024px;
+    max-width: 1024px;
+    margin-left: 0px;
+    margin-top: 0px;  
+    display: block;
+
+}
+
+.framebox-14 {
+    max-height: 685px;
+    max-width: 1068px;
+    margin-left: 0px;
+    margin-top: 0px;  
+    display: block;
+    background-color: #F5F5DC;
+
+}
+
+.framebox-15 {
+    max-height: 675px;
+    max-width: 1200px;
+    margin-left: 0px;
+    margin-top: 0px;  
+    display: block;
+
+}
+
+.framebox-16 {
+    max-height: 584px;
+    max-width: 743px;
+    margin-left: 0px;
+    margin-top: 0px;  
+    display: block;
+    background-color: #F5F5DC;
+
+}
+.framebox-17 {
+    max-height: 314px;
+    max-width: 314px;
+    margin-left: 0px;
+    margin-top: 0px;  
+    display: block;
+
+}
