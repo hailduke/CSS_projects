@@ -220,6 +220,10 @@
     margin-left: 200px;
     margin-top: 200px;  
     display: block;
+    flex-shrink: 0;
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
     background-color: #F5F5DC;
 
 }
@@ -239,6 +243,10 @@
     margin-left: 50px;
     margin-top: 900px;  
     display: block;
+    flex-shrink: 0;
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
     background-color: #F5F5DC;
 
 }
@@ -258,6 +266,10 @@
     margin-left: 600px;
     margin-top: 1700px;  
     display: block;
+    flex-shrink: 0;
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
     background-color: #F5F5DC;
 
 }
