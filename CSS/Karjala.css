@@ -170,6 +170,10 @@
 
 }
 
+.page2 {
+    display: flow-root;
+}
+
 .frame-group-8 {
     height: 1034px;
     max-width: 1920px;
@@ -226,7 +230,7 @@
     max-height: 1024px;
     max-width: 1024px;
     margin-left: 700px;
-    margin-top: 200px;  
+    margin-top: -200px;  
 
 }
 
@@ -247,7 +251,7 @@
     max-height: 675px;
     max-width: 1200px;
     margin-left: 49px;
-    margin-top: 100px;  
+    margin-top: -100px;  
 
 }
 
