@@ -176,6 +176,28 @@
     display: flex;
 }
 
+.framebox-10 {
+
+    max-width: 1920px;
+    margin-left: 0px;
+    margin-top: 0px;    
+    flex-shrink: 0;
+    display: block;
+    
+
+}
+
+.framebox-10-1 {
+
+    max-width: 1920px;
+    margin-left: 0px;
+    margin-top: 0px;    
+    flex-shrink: 0;
+    display: block;
+    
+
+}
+
 .frame-group-9 {
     height: 3694px;
     max-width: 1920px;
