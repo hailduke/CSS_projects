@@ -173,7 +173,6 @@
 .frame-group-8 {
     height: 1034px;
     max-width: 1920px;
-    display: flex;
 }
 
 .framebox-10 {
@@ -182,7 +181,6 @@
     margin-left: 0px;
     margin-top: 0px;    
     flex-shrink: 0;
-    display: block;
     
 
 }
@@ -191,7 +189,7 @@
 
     max-width: 1920px;
     margin-left: 0px;
-    margin-top: 0px;    
+    margin-top: -200px;    
     flex-shrink: 0;
     
 
@@ -201,7 +199,6 @@
     height: 3694px;
     max-width: 1920px;
     background-color: #003B2E;
-    display: flex;
 }
 
 .framebox-11 {
