@@ -277,8 +277,8 @@
 
 .frame-group-10 {
 
-    display: flex;
     max-width: 1920px;
+    height: 1000px;
     margin-left: 0px;
     margin-top: 0px;    
     flex-shrink: 0;
@@ -311,6 +311,8 @@
 }
 
 .framebox-20 {
+    height: 348px;
+    max-width: 850px;
     flex-shrink: 0;
     margin-left: 100px;
     margin-top: 0px; 
@@ -350,6 +352,8 @@
 }
 
 .framebox-23 {
+    height: 405px;
+    max-width: 800px;
     flex-shrink: 0;
     margin-left: 1020px;
     margin-top: 0px; 
@@ -373,6 +377,8 @@
 }
 
 .framebox-24 {
+    height: 540px;
+    max-width: 850px;
     flex-shrink: 0;
     margin-left: 100px;
     margin-top: 0px; 
@@ -412,6 +418,8 @@
 }
 
 .framebox-27 {
+    height: 584px;
+    max-width: 800px;
     flex-shrink: 0;
     margin-left: 1020px;
     margin-top: 0px; 
