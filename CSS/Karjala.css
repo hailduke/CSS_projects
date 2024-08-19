@@ -482,7 +482,7 @@
 .framebox-30 {
     flex-shrink: 0;
     margin-left: 0px;
-    margin-top: 0px; 
+    margin-top: -60px; 
     display: block; 
 
 }
@@ -491,7 +491,7 @@
 
     max-width: 1920px;
     margin-left: 0px;
-    margin-top: 0px;    
+    margin-top: -177px;    
     flex-shrink: 0;
     background-color: #003B2E;
     
