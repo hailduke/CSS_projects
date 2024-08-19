@@ -579,6 +579,7 @@
 
 .frame-group-18 {
 
+    height: 300px;
     display: flex;
     max-width: 1920px;
     margin-left: 0px;
@@ -589,7 +590,7 @@
 }
 
 .framebox-38 {
-    height: 300px;
+    
     flex-shrink: 0;
     margin-left: 1038px;
     margin-top: -181px; 
