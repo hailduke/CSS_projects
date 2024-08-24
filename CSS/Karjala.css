@@ -639,6 +639,7 @@
 .frame-group-21 {
 
 
+    display: flex;
     max-width: 1920px;
     margin-left: 0px;
     margin-top: 0px;    
