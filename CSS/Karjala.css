@@ -600,13 +600,10 @@
 
 .frame-group-19 {
 
-    height: 300px;
-    display: flex;
     max-width: 1920px;
     margin-left: 0px;
     margin-top: 0px;    
     flex-shrink: 0;
-    background-color: #003B2E;
     
 }
 
@@ -619,19 +616,9 @@
 
 }
 
-.framebox-39 {
-    
-    flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
-    display: block; 
-
-}
-
 .frame-group-20 {
 
-    height: 300px;
-    display: flex;
+    height: 100px;
     max-width: 1920px;
     margin-left: 0px;
     margin-top: 0px;    
@@ -640,143 +627,166 @@
     
 }
 
-.framebox-40 {
+.framebox-39 {
     
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
+    margin-left: 0px;
+    margin-top: 0px; 
     display: block; 
 
 }
 
 .frame-group-21 {
 
-    height: 300px;
-    display: flex;
+
     max-width: 1920px;
     margin-left: 0px;
     margin-top: 0px;    
     flex-shrink: 0;
-    background-color: #003B2E;
+    background-color: #F5F5DC;
     
+}
+
+.framebox-40 {
+    
+    height: 714px;
+    max-width: 850px;
+    flex-shrink: 0;
+    margin-left: 100px;
+    margin-top: 100px; 
+    display: block; 
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
+    color: #003B2E;
+
 }
 
 .framebox-41 {
     
+    height: 459px;
+    max-width: 995px;
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
+    margin-left: 100px;
+    margin-top: 0px; 
     display: block; 
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
+    color: #003B2E; 
 
 }
 
 .framebox-42 {
     
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
-    display: block; 
-
-}
-
-.framebox-43 {
+    margin-left: 10px;
+    margin-top: 100px; 
     
-    flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
-    display: block; 
 
 }
 
 .frame-group-22 {
 
-    height: 300px;
-    display: flex;
+
     max-width: 1920px;
     margin-left: 0px;
     margin-top: 0px;    
     flex-shrink: 0;
-    background-color: #003B2E;
+    background-color: #F5F5DC;
+    
+}
+
+.framebox-43 {
+    
+    height: 408px;
+    max-width: 1720px;
+    flex-shrink: 0;
+    margin-left: 100px;
+    margin-top: 0px; 
+    display: block; 
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
+    color: #003B2E; 
+
+}
+
+.frame-group-23 {
+
+
+    max-width: 1920px;
+    margin-left: 0px;
+    margin-top: 0px;    
+    flex-shrink: 0;
+    background-color: #F5F5DC;
     
 }
 
 .framebox-44 {
     
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
+    margin-left: 100px;
+    margin-top: 50px; 
     display: block; 
 
-}
-
-.frame-group-23 {
-
-    height: 300px;
-    display: flex;
-    max-width: 1920px;
-    margin-left: 0px;
-    margin-top: 0px;    
-    flex-shrink: 0;
-    background-color: #003B2E;
-    
 }
 
 .framebox-45 {
     
+    height: 1428px;
+    max-width: 724px;
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
-    display: block; 
-
-}
-
-.framebox-46 {
-    
-    flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
-    display: block; 
+    margin-left: 70px;
+    margin-top: 50px; 
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
+    color: #003B2E; 
 
 }
 
 .frame-group-24 {
 
-    height: 300px;
-    display: flex;
     max-width: 1920px;
     margin-left: 0px;
     margin-top: 0px;    
     flex-shrink: 0;
-    background-color: #003B2E;
+    background-color: #F5F5DC;
     
 }
 
 .framebox-46 {
     
+    height: 255px;
+    max-width: 1720px;
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
+    margin-left: 100px;
+    margin-top: 0px; 
     display: block; 
+    font-size: 30px; 
+    font-family: Montserrat;
+    line-height: 150%;
+    color: #003B2E; 
 
 }
 
 .frame-group-25 {
 
-    height: 300px;
-    display: flex;
+
     max-width: 1920px;
     margin-left: 0px;
     margin-top: 0px;    
     flex-shrink: 0;
-    background-color: #003B2E;
+    background-color: #F5F5DC;
     
 }
 
 .framebox-47 {
     
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
+    margin-left: -300px;
+    margin-top: 350px; 
     display: block; 
 
 }
@@ -784,8 +794,8 @@
 .framebox-48 {
     
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
+    margin-left: 0px;
+    margin-top: 0px; 
     display: block; 
 
 }
@@ -793,8 +803,8 @@
 .framebox-49 {
     
     flex-shrink: 0;
-    margin-left: 1038px;
-    margin-top: -181px; 
+    margin-left: 0px;
+    margin-top: -20px; 
     display: block; 
 
 }
